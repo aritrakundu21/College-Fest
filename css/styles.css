@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+  color: black;
+  font-size: 1.4em;
+  background-color: #C9CBFF;
+}
+h1{
+  font-family: 'Stoke', serif;
+  text-align: center;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+  color: #0F3057;
+}
+ul{
+  text-align: left;
+  list-style-position: inside;
+}
+.guest{
+  text-align: left;
+}
+.events{
+  text-align: left;
+}
+.top_container{
+  width: 60%;
+  margin: auto;
+}
+img{
+  width: 200px;
+}
+p{
+  color:#242F9B;
+}
+.cultural{
+  text-align: left;
+}
+.technical{
+  text-align: left;
+}
+.parent{
+  text-align: center;
+  line-height: 60px;
+  font-size: 1.2em;
+}
+.parent > ol{
+  display: inline-block;
+}
+.register{
+  text-align: center;
+  font-size: 1em;
+  line-height: 50px;
+}
